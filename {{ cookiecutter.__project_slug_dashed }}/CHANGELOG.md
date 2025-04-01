@@ -1,7 +1,0 @@
-Changelog
-=========
-
-
-(main)
-------
-- Initial commit
